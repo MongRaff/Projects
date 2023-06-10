@@ -1,0 +1,11 @@
+C:\Users\MongRaff\Desktop\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\MongRaff\Desktop\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\MongRaff\Desktop\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.csproj.AssemblyReference.cache
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.csproj.SuggestedBindingRedirects.cache
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.Form1.resources
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.Properties.Resources.resources
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.csproj.GenerateResource.cache
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\MongRaff\Desktop\Base64\Base64\obj\Debug\Base64.pdb
